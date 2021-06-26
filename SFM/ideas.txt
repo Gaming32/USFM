@@ -1,0 +1,4 @@
+Ideas for command-line parameters:
+  --no-verse-markings   Do not output \v markings
+  --no-section-headings Do not output section headings
+  --no-mt2-headings     Do not output \mt2 headings
